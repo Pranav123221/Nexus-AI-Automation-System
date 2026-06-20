@@ -57,6 +57,11 @@ The backend core is engineered using step-by-step sequential logic inside an pro
 ### 💻 Frontend Chat Interface UI:
 <img width="1910" height="906" alt="Screenshot 2026-06-20 171903" src="https://github.com/user-attachments/assets/130cebda-df8b-4173-91cd-aac00a8d9696" />
 
+## 🔗 Live Demo & Screenshots
+
+* **Watch the Live Demo:** [Click here to see the project in action on LinkedIn](www.linkedin.com/in/pranav-sharma-333b67338)
+* **n8n Workflow & Frontend:** 
+
 
 ---
 *Developed as a high-impact automation prototype for engineering and technical research workflow acceleration.*
